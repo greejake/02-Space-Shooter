@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/proton5.mp3-7ec42b8bbcb1efbf68201608431e6ff7.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/proton5.mp3"
+dest_files=[ "res://.import/proton5.mp3-7ec42b8bbcb1efbf68201608431e6ff7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

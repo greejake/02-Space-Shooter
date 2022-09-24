@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/comfusedrobot4.mp3-c872cedbc8472f8b382f7ab5d0a03265.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/comfusedrobot4.mp3"
+dest_files=[ "res://.import/comfusedrobot4.mp3-c872cedbc8472f8b382f7ab5d0a03265.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

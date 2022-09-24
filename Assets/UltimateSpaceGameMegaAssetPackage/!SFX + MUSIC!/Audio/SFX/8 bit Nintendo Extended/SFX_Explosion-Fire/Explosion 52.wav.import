@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Explosion 52.wav-5f25fd05201e24a4713ce698d3a36b48.sample"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/8 bit Nintendo Extended/SFX_Explosion-Fire/Explosion 52.wav"
+dest_files=[ "res://.import/Explosion 52.wav-5f25fd05201e24a4713ce698d3a36b48.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

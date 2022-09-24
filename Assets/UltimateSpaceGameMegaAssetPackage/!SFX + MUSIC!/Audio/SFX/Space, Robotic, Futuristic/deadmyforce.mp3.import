@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/deadmyforce.mp3-1ae6b47cc0d14b69063877fa93e57ede.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/deadmyforce.mp3"
+dest_files=[ "res://.import/deadmyforce.mp3-1ae6b47cc0d14b69063877fa93e57ede.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

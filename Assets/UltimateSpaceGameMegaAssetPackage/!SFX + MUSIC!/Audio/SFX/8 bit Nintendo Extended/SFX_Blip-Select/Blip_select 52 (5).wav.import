@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Blip_select 52 (5).wav-507eddbb1faecb9e5a55d6a29281a1db.sample"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/8 bit Nintendo Extended/SFX_Blip-Select/Blip_select 52 (5).wav"
+dest_files=[ "res://.import/Blip_select 52 (5).wav-507eddbb1faecb9e5a55d6a29281a1db.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

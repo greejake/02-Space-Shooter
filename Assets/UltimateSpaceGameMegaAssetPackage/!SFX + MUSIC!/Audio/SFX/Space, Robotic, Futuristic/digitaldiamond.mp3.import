@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/digitaldiamond.mp3-a3b76ebda23df34951f5aef0f6aa8efc.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/digitaldiamond.mp3"
+dest_files=[ "res://.import/digitaldiamond.mp3-a3b76ebda23df34951f5aef0f6aa8efc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

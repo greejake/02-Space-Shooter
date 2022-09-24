@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/forcedead.mp3-cec2be93fd0506608fd0925dbe78d0fe.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/forcedead.mp3"
+dest_files=[ "res://.import/forcedead.mp3-cec2be93fd0506608fd0925dbe78d0fe.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

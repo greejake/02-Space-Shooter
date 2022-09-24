@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/bgm_0.mp3-3cd56a70e67229992fc1b2933129ef3f.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/Infinite Loops (Background Music)/bgm_0.mp3"
+dest_files=[ "res://.import/bgm_0.mp3-3cd56a70e67229992fc1b2933129ef3f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

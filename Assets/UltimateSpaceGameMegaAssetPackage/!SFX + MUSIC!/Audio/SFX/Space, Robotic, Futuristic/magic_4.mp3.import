@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/magic_4.mp3-a6eb1d2685d9ecc1077da6a53857e75c.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/magic_4.mp3"
+dest_files=[ "res://.import/magic_4.mp3-a6eb1d2685d9ecc1077da6a53857e75c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

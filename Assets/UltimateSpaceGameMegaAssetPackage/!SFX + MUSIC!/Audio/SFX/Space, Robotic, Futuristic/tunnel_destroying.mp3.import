@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/tunnel_destroying.mp3-e6464739f5f741237eb228f17092ef5c.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/tunnel_destroying.mp3"
+dest_files=[ "res://.import/tunnel_destroying.mp3-e6464739f5f741237eb228f17092ef5c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

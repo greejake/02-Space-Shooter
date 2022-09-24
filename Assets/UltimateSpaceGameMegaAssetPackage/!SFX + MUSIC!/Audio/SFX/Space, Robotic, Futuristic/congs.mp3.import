@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/congs.mp3-93721d02a0a75584b7fe9f16df00e5ee.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/congs.mp3"
+dest_files=[ "res://.import/congs.mp3-93721d02a0a75584b7fe9f16df00e5ee.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/message2.mp3-4e17a49841a6fdd32433c89b7914246a.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/message2.mp3"
+dest_files=[ "res://.import/message2.mp3-4e17a49841a6fdd32433c89b7914246a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

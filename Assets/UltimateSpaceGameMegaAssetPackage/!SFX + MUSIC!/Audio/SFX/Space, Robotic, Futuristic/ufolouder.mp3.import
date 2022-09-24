@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ufolouder.mp3-0edfe38202dc4483d26f5cec2297937d.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/ufolouder.mp3"
+dest_files=[ "res://.import/ufolouder.mp3-0edfe38202dc4483d26f5cec2297937d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

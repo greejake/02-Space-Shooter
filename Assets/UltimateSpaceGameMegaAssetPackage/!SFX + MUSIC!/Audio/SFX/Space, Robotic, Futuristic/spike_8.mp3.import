@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/spike_8.mp3-1932e0e48ffb8e3f41dd9efae3e61a9b.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/spike_8.mp3"
+dest_files=[ "res://.import/spike_8.mp3-1932e0e48ffb8e3f41dd9efae3e61a9b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

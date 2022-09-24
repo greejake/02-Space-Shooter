@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/gmentert_loud.mp3-8cfab45561ac4e56faca8930dc79a001.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/gmentert_loud.mp3"
+dest_files=[ "res://.import/gmentert_loud.mp3-8cfab45561ac4e56faca8930dc79a001.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/roboticnoise.mp3-5126cad41e5518c78c556e4d6898927e.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/roboticnoise.mp3"
+dest_files=[ "res://.import/roboticnoise.mp3-5126cad41e5518c78c556e4d6898927e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

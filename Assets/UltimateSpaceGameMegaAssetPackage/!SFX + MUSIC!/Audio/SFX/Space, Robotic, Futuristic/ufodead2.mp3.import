@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ufodead2.mp3-ac16b2b28243fdc9ae4bb37f829cfd26.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/ufodead2.mp3"
+dest_files=[ "res://.import/ufodead2.mp3-ac16b2b28243fdc9ae4bb37f829cfd26.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

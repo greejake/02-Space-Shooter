@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/digitalrolling.mp3-2a33df931e0f2d1736aec7f2923dc756.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/digitalrolling.mp3"
+dest_files=[ "res://.import/digitalrolling.mp3-2a33df931e0f2d1736aec7f2923dc756.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

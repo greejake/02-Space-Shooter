@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/soul_fighter.mp3-cf61414c9471c9692a6675f2c515087c.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/soul_fighter.mp3"
+dest_files=[ "res://.import/soul_fighter.mp3-cf61414c9471c9692a6675f2c515087c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

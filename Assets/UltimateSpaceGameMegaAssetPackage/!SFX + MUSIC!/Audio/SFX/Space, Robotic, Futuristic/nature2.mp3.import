@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/nature2.mp3-2aba4d9ec2b411290fb7dcfbce5f372e.mp3str"
+
+[deps]
+
+source_file="res://Assets/UltimateSpaceGameMegaAssetPackage/!SFX + MUSIC!/Audio/SFX/Space, Robotic, Futuristic/nature2.mp3"
+dest_files=[ "res://.import/nature2.mp3-2aba4d9ec2b411290fb7dcfbce5f372e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
